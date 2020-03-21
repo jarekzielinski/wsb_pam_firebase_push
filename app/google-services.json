@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416866355139",
+    "firebase_url": "https://wsbapp-17de3.firebaseio.com",
+    "project_id": "wsbapp-17de3",
+    "storage_bucket": "wsbapp-17de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416866355139:android:5d78b0bdac3ccca0a59f76",
+        "android_client_info": {
+          "package_name": "pl.jzielinski.wsb.firebasepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416866355139-c8705hb66lmfe3b9867ic5i4mkq6dc3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0EbuYbmF895vwKdU4r6oYml9dWyjq8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416866355139-c8705hb66lmfe3b9867ic5i4mkq6dc3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
