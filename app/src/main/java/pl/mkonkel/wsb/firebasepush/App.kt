@@ -13,7 +13,7 @@ class App : Application() {
                     Log.e("App","Nie udało sie uzyskac fcm token")
                 }
                 val token=it.result?.token
-                Log.d("App","Fom token:$token")
+                Log.d("App","Fo token:$token")
             }
     }
 }
